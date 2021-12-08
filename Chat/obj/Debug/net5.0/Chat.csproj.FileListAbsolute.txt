@@ -1,0 +1,16 @@
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\bin\Debug\net5.0\Chat.exe
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\bin\Debug\net5.0\Chat.deps.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\bin\Debug\net5.0\Chat.runtimeconfig.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\bin\Debug\net5.0\Chat.runtimeconfig.dev.json
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\bin\Debug\net5.0\Chat.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\bin\Debug\net5.0\ref\Chat.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\bin\Debug\net5.0\Chat.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\obj\Debug\net5.0\Chat.csproj.AssemblyReference.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\obj\Debug\net5.0\Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\obj\Debug\net5.0\Chat.AssemblyInfoInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\obj\Debug\net5.0\Chat.AssemblyInfo.cs
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\obj\Debug\net5.0\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\obj\Debug\net5.0\Chat.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\obj\Debug\net5.0\ref\Chat.dll
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\obj\Debug\net5.0\Chat.pdb
+C:\Users\Robert-PC\Desktop\PB\Større systemer\Storprojekt\Chat\Chat\obj\Debug\net5.0\Chat.genruntimeconfig.cache
